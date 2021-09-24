@@ -20,3 +20,5 @@ what i will do in this project, i will make use of Python to explore data relate
 
 ### changes
 small changes in the written text
+
+changes for the documentation
